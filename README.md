@@ -1,1 +1,1 @@
-# aieng
+# MINI PROJECT MNIST
